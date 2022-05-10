@@ -4,6 +4,8 @@
 I'm a Full-Stack Developer 💻
 </h2>
 
+I love the entire process of developing
+
 ## Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Mr-Cuda)](https://github.com/Mr-Cuda)
