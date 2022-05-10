@@ -1,10 +1,14 @@
 # Mr-Cuda
 
+<h3 align="center">
+e <a href="https://cudadev.mln/" target="_blank" rel="noreferrer">Mr-Cuda</a> 👋
+</h3>
+
 <h2 align="center">
-I'm a Full-Stack Developer 💻
+Full-Stack Developer 💻
 </h2>
 
-if you want to know me add me on discord
+Add me on discord
 
 Mr-Cuda#7634
 
