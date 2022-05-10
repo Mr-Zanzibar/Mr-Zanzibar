@@ -28,8 +28,10 @@ self.Languages = {
 
 "C/C++" : "Learnig",
 
-"Javascript" : "Known but still learning",
+"Javascript" : "Known-but-still-learning",
 
-"Go" : "Known but still learning"
+"Java" : "Fully-Written",
+
+"Go" : "Known-but-still-learning"
 
 }
