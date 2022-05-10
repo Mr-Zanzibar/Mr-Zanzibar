@@ -1,8 +1,4 @@
-# Mr-Cuda
-
-<h2 align="center">
-Shit Developer 💻
-</h2>
+## Mr-Cuda
 
 Add me on discord
 
