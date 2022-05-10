@@ -4,9 +4,11 @@
 I'm a Full-Stack Developer 💻
 </h2>
 
-I love the entire process of developing
+if you want to know me add me on discord
 
-## Stats
+Mr-Cuda#7634
+
+# Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Mr-Cuda)](https://github.com/Mr-Cuda)
 
