@@ -1,9 +1,3 @@
-## Mr-Cuda
-
-Add me on discord
-
-Mr-Cuda#7634
-
 # Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Mr-Cuda)](https://github.com/Mr-Cuda)
