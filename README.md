@@ -1,9 +1,6 @@
 # Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mr-Cuda&count_private=true&theme=synthwave&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Cuda&langs_count=5&theme=synthwave)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Cuda1&theme=dark)](https://git.io/streak-stats)
 
 
 ## Replit
