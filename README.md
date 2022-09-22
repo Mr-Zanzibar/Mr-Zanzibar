@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Cuda&show_icons=true&theme=dark)
 
+- Shitty stats
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Cuda)](https://github.com/Mr-Cuda/github-readme-stats)
 
