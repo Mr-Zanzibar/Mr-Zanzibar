@@ -30,7 +30,7 @@ class Attributes:
 	@staticmethod
 	def coding(self) -> tuple:
 		langs = {
-			'expert':   ['python', 'js'],
+			'expert':   ['python', 'js', 'html'],
 			'intermediate': ['go', 'c++'],
 			'learning': ['java', 'cuda', 'rust']
 		}
