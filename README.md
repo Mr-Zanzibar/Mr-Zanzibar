@@ -31,8 +31,8 @@ class Attributes:
 	def coding(self) -> tuple:
 		langs = {
 			'expert':   ['python', 'js'],
-			'intermediate': ['go'],
-			'learning': ['java', 'cuda']
+			'intermediate': ['go', 'c++'],
+			'learning': ['java', 'cuda', 'rust']
 		}
 		specialities  = ['web/app brute force creator', 'backend', 'tools in general']
 		on = ['vscode']
