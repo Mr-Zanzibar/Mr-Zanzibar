@@ -45,7 +45,7 @@ class Attributes:
 		whatsApp   = ['SpamBot']
 		tiktok    = ['ReportBot']
 		tools = ['FakeBTC Miner', 'YT Video Downloader']
-		ip    = ['Ddos', 'IP Localizator', 'IP Info']
+		ip    = ['DDos', 'IP Localizator', 'IP Info']
 		website   = ['BruteForce', 'Kahoot SpamBot']
 		
 		return whatsApp, tiktok, tools, ip, website
