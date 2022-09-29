@@ -9,6 +9,7 @@
 
 ```python
 import girlfriend
+
 class Attributes:
 	def __init__(self) -> None:
 		girlfriend.get('girlfriend')
