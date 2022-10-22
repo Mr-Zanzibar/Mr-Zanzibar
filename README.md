@@ -15,12 +15,6 @@ class Attributes:
 		girlfriend.get('girlfriend')
 	
 	@staticmethod
-	def contact(self) -> tuple:
-	    contact  = "u can not contact me"
-	    
-	    return contact
-	
-	@staticmethod
 	def life(self) -> tuple:
 		lang         = ['Italian', 'English', 'German', 'Norwegian']
 		nationalities = self.langs.remove('Italian', 'American').append('Canadian')
