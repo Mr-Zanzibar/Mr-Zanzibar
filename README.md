@@ -27,7 +27,7 @@ class Attributes:
 		langs = {
 			'expert':   ['python', 'js', 'html'],
 			'intermediate': ['go', 'c++'],
-			'learning': ['java', 'cuda', 'rust']
+			'learning': ['rust']
 		}
 		specialities  = ['web/app brute force creator', 'backend', 'tools in general']
 		on = ['vscode']
