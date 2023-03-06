@@ -18,9 +18,9 @@ class Attributes:
 	def life(self) -> tuple:
 		lang         = ['Italian', 'English', 'German', 'Norwegian']
 		nationalities = self.langs.remove('Italian', 'American').append('Canadian')
-		myage           = **
+		age           = **
 		
-		return lang, nationalities, myage
+		return lang, nationalities, age
 	
 	@staticmethod
 	def coding(self) -> tuple:
