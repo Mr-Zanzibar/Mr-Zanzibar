@@ -11,38 +11,41 @@
 import girlfriend
 
 class Attributes:
-	def __init__(self) -> None:
-		girlfriend.get('girlfriend')
+	def __init__(self):
+		self.girlfriend = girlfriend.get('girlfriend')
 	
 	@staticmethod
-	def life(self) -> tuple:
-		lang         = ['Italian', 'English', 'German', 'Norwegian']
-		nationalities = self.langs.remove('Italian', 'American').append('Canadian')
-		age           = **
+	def life():
+		langs = ['Italian', 'English', 'German', 'Norwegian']
+		langs.remove('Italian')
+		langs.append('Canadian')
+		nationalities = langs
+		age = None  # Inserisci l'età desiderata
 		
-		return lang, nationalities, age
+		return langs, nationalities, age
 	
 	@staticmethod
-	def coding(self) -> tuple:
+	def coding():
 		langs = {
-			'expert':   ['python', 'js', 'html'],
+			'expert': ['python', 'js', 'html'],
 			'intermediate': ['go', 'c++'],
 			'learning': ['rust']
 		}
-		specialities  = ['web/app brute force creator', 'backend', 'tools in general']
+		specialities = ['web/app brute force creator', 'backend', 'tools in general']
 		on = ['vscode']
 		
 		return langs, specialities, on
 	
 	@staticmethod
-	def projects(self) -> tuple:
-		whatsApp   = ['SpamBot']
-		tiktok    = ['ReportBot']
+	def projects():
+		whatsApp = ['SpamBot']
+		tiktok = ['ReportBot']
 		tools = ['FakeBTC Miner', 'YT Video Downloader']
-		ip    = ['DDos', 'IP Localizator', 'IP Info']
-		website   = ['BruteForce', 'Kahoot SpamBot']
+		ip = ['DDos', 'IP Localizator', 'IP Info']
+		website = ['BruteForce', 'Kahoot SpamBot']
 		
 		return whatsApp, tiktok, tools, ip, website
+
 ```
 
 
