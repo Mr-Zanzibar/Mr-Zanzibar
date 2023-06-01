@@ -20,7 +20,7 @@ class Attributes:
 		langs.remove('Italian')
 		langs.append('Canadian')
 		nationalities = langs
-		age = None  # Inserisci l'età desiderata
+		age = **
 		
 		return langs, nationalities, age
 	
