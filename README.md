@@ -40,7 +40,7 @@ class Attributes:
 	def projects():
 		whatsApp = ['SpamBot']
 		tiktok = ['ReportBot']
-		tools = ['FakeBTC Miner', 'YT Video Downloader']
+		tools = ['FakeBTC Miner', 'Instagram Account Scraper']
 		ip = ['DDos', 'IP Localizator', 'IP Info']
 		website = ['BruteForce', 'Kahoot SpamBot']
 		
