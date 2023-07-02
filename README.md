@@ -14,7 +14,7 @@ import girlfriend
 
 class Attributes:
     def __init__(self):
-        self.girlfriend = None  # Set girlfriend attribute to None
+        self.girlfriend = None
 
     @staticmethod
     def life():
